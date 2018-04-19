@@ -13,4 +13,4 @@ Here are all the examples and associated test results.
 ### Image Classification
 
 Multi-label classification:
- - Seedlings dataset: 97.2% accuracy on the test set
+ - Seedlings dataset: 97.64% accuracy on the test set
